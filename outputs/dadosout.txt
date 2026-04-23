@@ -1,4 +1,4 @@
-Arquivo: inputs/caso09-T1-ALESTII.txt
-Letra inicial: c
-Tamanho do arquivo final: 187200310211
-Tempo: 3 ms
+Arquivo: inputs/caso15.txt
+Letra inicial: y
+Tamanho do arquivo final: 2106252585367
+Tempo: 6 ms

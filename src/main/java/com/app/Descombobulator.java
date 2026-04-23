@@ -12,7 +12,7 @@ import java.util.*;
 public class Descombobulator {
     private Scanner entrada = new Scanner(System.in);
     private PrintStream saidaPadrao = System.out;
-    private final String nomeArquivoEntrada = "inputs/caso09-T1-ALESTII.txt";
+    private final String nomeArquivoEntrada = "inputs/caso15.txt";
     private final String nomeArquivoSaida = "outputs/dadosout.txt";
 
     private static Map<Character, String> tabela = new HashMap<>();
@@ -22,7 +22,7 @@ public class Descombobulator {
         redirecionaES();
     }
 
-    public void executa() throws IOException {
+    public void executar() throws IOException {
             long inicio = System.currentTimeMillis();
     
             lerArquivo(nomeArquivoEntrada);

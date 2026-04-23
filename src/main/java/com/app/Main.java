@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         try {
             Descombobulator descombobulator = new Descombobulator();
-            descombobulator.executa();
+            descombobulator.executar();
         } catch (IOException e) {
             System.err.println("Erro ao executar: " + e.getMessage());
         }
