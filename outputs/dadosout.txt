@@ -1,4 +1,4 @@
 Arquivo: inputs/caso15.txt
 Letra inicial: y
 Tamanho do arquivo final: 2106252585367
-Tempo: 6 ms
+Tempo: 4 ms
